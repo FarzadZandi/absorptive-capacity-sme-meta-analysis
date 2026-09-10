@@ -1,0 +1,3 @@
+"analysis","estimate","statistic","p_value","imputed_studies","note"
+"Egger regression",0.219822879008553,1.15710623842709,0.254849235477379,NA,"Exploratory because heterogeneity is very high."
+"Trim-and-fill",0.386028741060292,NA,NA,0,"Exploratory adjustment; not evidence that missingness mechanism is correct."

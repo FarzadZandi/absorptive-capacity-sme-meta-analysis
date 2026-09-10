@@ -1,0 +1,5 @@
+"analysis","moderator","k","slope_z_scale","standardized_beta","test_statistic","df","p_value","method"
+"Submitted fixed-effect replication: Data-collection year","Data-collection year",39,0.0109310279361026,0.225321358618189,5.69875147344029,NA,0.0000000120688010707487,"Fixed-effect inverse-variance weighted regression"
+"Submitted fixed-effect replication: Uncertainty avoidance","Uncertainty avoidance",39,-0.00117580256353968,-0.090756737428746,-2.29538865874061,NA,0.0217108607234554,"Fixed-effect inverse-variance weighted regression"
+"Audited random-effects model: Data-collection year","Data-collection year",38,0.0041290475718719,NA,0.515331567726988,36,0.609471584806956,"REML meta-regression with Knapp-Hartung inference"
+"Audited random-effects model: Uncertainty avoidance","Uncertainty avoidance",38,-0.00110954310592958,NA,-0.518683659376445,36,0.607155227507745,"REML meta-regression with Knapp-Hartung inference"
